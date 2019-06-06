@@ -1,0 +1,35 @@
+body {
+    background: url('black_power.png'); /*zrobić to jako znak a nie tło" a tło czarne*/
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 50px;`
+    color: rgba(175, 150, 150, 0.534);
+    text-align: center;
+    margin-top: 40px
+}
+
+h2 {
+    color: rgb(46, 37, 37);
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(0, 225, 255);
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 225, 255);
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.bord {
+    border: 10px white
+}
